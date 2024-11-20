@@ -14,12 +14,8 @@ A game about boating around and fishing and killing
 
 
 ### Key
-🟢 = Done
-  
-🔵 = Almost
-  
-🟡 = Halfway
-  
-🟠 = Not quite
-  
-🔴 = Have not started
+- 🟢 = Done
+- 🔵 = Almost
+- 🟡 = Halfway
+- 🟠 = Not quite
+- 🔴 = Have not started
