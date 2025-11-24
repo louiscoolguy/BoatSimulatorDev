@@ -1,5 +1,6 @@
 # Boat Sim; A small scale game project by louis/benix 👍
 ## How to
+- Build: Use g++ and start b.bat
 - Move: WASD
 - Show hitboxes: Press F1
 - Show part of world generation using perlin noise: Press F1
