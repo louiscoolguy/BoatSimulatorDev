@@ -5,6 +5,7 @@
 - Show hitboxes: Press F1
 - Show part of world generation using perlin noise: Press F1
 - Every time you reopen the game the world gen changes
+- Press E while hovering over character to make ding sound (kinda dumb)
 
 ## Commands
 - type commands into the command prompt
